@@ -1,4 +1,5 @@
 // Testing the performance by using timers.
+
 function addUpTo(n) {
 	let total = 0;
 	for (let i = 1; i <= n; i++) {
