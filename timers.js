@@ -1,4 +1,4 @@
-// Testing the performance of several functions to determine which is the most efficient.
+// Testing the performance by using timers.
 function addUpTo(n) {
 	let total = 0;
 	for (let i = 1; i <= n; i++) {
